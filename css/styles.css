@@ -1097,7 +1097,7 @@ button.button-info {
     border: 1px solid #433b0c;
     position: relative;
     display: block;
-    background-color: rgba(230, 230, 230, 0.55);
+    background-color: rgba(181, 173, 136, 1.0);
     padding: 28px 23px 31px;
     margin-top: 2px;
 }
